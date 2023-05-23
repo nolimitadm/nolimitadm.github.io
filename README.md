@@ -43,6 +43,5 @@ School Project
 <button onclick="window.print()">imprimer la page</button>
 <button onClick="window.location.reload();">supprimer tout</button>
     <script src="TDEE.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 </body>
 </html>
