@@ -1,6 +1,4 @@
 
-School Project
-
 <html lang="en">
 <head>
     <link rel="stylesheet" href="TDEE.css">
